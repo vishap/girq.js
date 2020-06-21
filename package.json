@@ -1,0 +1,18 @@
+{
+  "name": "girq",
+  "version": "1.0.0",
+  "description": "EPUB Writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/vishap/girq.js"
+  },
+  "keywords": [
+    "epub"
+  ],
+  "author": "Vahagn Khachatryan",
+  "license": "ISC"
+}
