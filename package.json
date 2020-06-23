@@ -1,8 +1,8 @@
 {
-  "name": "girq",
+  "name": "girq.js",
   "version": "1.0.0",
   "description": "EPUB Writer",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -14,5 +14,8 @@
     "epub"
   ],
   "author": "Vahagn Khachatryan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
